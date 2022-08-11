@@ -1,0 +1,11 @@
+-Header(stateless)
+-Buscador
+    -input
+    -boton
+-ListaNoticias
+    -Noticia
+        -Description
+        -Img
+    -paginado
+
+-Footer
